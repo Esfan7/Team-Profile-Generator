@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esfan7/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esfan7/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Esfan7/Team-Profile-Generator#readme",
+  "description": ""
+}
